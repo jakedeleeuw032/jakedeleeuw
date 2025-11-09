@@ -1,5 +1,5 @@
 ---
-title: GitHub
+title: LinkedIn
 redirect_to:
-  - http://www.github.com/aterenin/minima-reboot/
+  - https://www.linkedin.com/in/jakedeleeuw/
 ---
