@@ -18,7 +18,7 @@ body {
 }
 
 #nav-menu-container {
-  @media (max-width: $layout-responsive-nav-cutoff - 1px) {
+  @media (max-width: 767px) {
     position: absolute;
     z-index: 100;
     top: 0.4375rem;
@@ -54,6 +54,22 @@ body {
     background-color: $layout-hr-color;
     margin: 1.5rem 0;
     box-shadow: 0 0.5px 0 rgba(0,0,0,0.03) inset;
+  }
+
+  /* Resume button under About text, left-aligned; paragraph should keep full width */
+  .resume-button {
+    display: inline-block; /* sits on its own line if wrapped in a paragraph */
+    padding: 0.45rem 0.75rem;
+    background-color: #0a84ff;
+    color: #ffffff;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid #076fd6;
+    margin-top: 0.5rem;
+  }
+  .resume-button:hover {
+    background-color: #066fe0;
   }
 }
 

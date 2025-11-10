@@ -30,7 +30,7 @@ I want to understand and perform these skills at a high level view:
 •	**Project Architecture & Systems Thinking**
 
 •	**API Integration & Connectivity**
-
+ 
 •	**What safe and responsible code looks like**
 
 •	**Vibe coding/AI assisted strategies**
@@ -45,7 +45,5 @@ Being early in my career I still have a lot to learn inside of my main skillset 
 
 
 ---
-
-
 
 If you share my mindset and desire, email me at **[jakedeleeuw032@gmail.com](mailto:jakedeleeuw032@gmail.com)**. I continue to expand my tribe and find people who wish to change the world.

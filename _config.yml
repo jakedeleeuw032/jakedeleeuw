@@ -21,7 +21,8 @@ minima_reboot:
 header_pages:
 - about.md
 - posts.md
-- github.md
+- resume.md
+  # 'github.md' previously pointed to your LinkedIn page; removed from header_pages to hide from nav
 
 footer_icons:
 - username: jakedeleeuw032
@@ -36,3 +37,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - minima-reboot.gemspec
+
